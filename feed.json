@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "infotexture",
+	"icon": "https://micro.blog/infotexture/avatar.jpg",
+	"home_page_url": "https://infotexture.micro.blog/",
+	"feed_url": "https://infotexture.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://infotexture.micro.blog/2023/08/23/time-to-kick.html",
+				
+				"content_html": "<p>Time to kick the tires here…</p>\n",
+				"content_text": "Time to kick the tires here…\n",
+				"date_published": "2023-08-23T23:53:38+02:00",
+				"url": "https://infotexture.micro.blog/2023/08/23/time-to-kick.html"
+			}
+	]
+}
